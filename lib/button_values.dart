@@ -35,8 +35,11 @@ class Btn{
      subtract,
      n1,
      n2,
-     n3
-
+     n3,
+     add,
+     n0,
+     dot,
+     calculate,
   ];
 
 
