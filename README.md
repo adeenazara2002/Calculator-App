@@ -8,7 +8,6 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-https://github.com/user-attachments/assets/7ec0e351-c07f-44be-876c-7889341001e2
 
 
 
